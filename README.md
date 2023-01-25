@@ -7,10 +7,10 @@ White Tails【ワイテルズ】様のVtailSという企画の中に存在する
 
 # 使い方
 アイテムを手に持って右クリック！
-'''
+```
 アイテムgive
 loot give @s loot clapping_hands:asset
-'''
+```
 
 # あとがき
 ご自由にお使いください。
