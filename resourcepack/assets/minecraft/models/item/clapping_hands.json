@@ -1,0 +1,31 @@
+{
+    "parent" : "minecraft:item/generated",
+    "textures" : {
+        "layer0" : "minecraft:item/clapping_hands"
+    },
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [18, 0, 75],
+			"translation": [-3, 3.5, 0],
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [18, 0, 75],
+			"translation": [-3, 3.5, 0],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [73, -12, 0],
+			"translation": [5.5, 2.5, 3.5],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [73, -12, 0],
+			"translation": [5.5, 2.5, 3.5],
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, 0]
+		}
+	}
+}

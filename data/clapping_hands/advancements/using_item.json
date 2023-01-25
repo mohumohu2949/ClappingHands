@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "player": {
+            "type": "minecraft:player"
+          },
+          "item": {
+            "items": [
+              "minecraft:bow"
+            ],
+            "nbt": "{ClappingHands:true}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "clapping_hands:handler/using_item"
+    }
+  }
+  
